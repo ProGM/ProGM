@@ -5,9 +5,9 @@
 ### Hi, I'm Piero 👋
 I'm an eclectic dev from Italy. I split my life in two, between web and game development.
 
-I'm a Ruby & Elixir fan, but I love experimenting new languages and stacks.
+I'm a Ruby & Elixir fan, but I love experimenting with new languages and stacks.
 
-I co-founded [Mònade](https://monade.io/en/home/), a fast growing digital studio creating tailor-made digital products, where I'm currently working as Tech Lead.
+I co-founded [Mònade](https://monade.io/en/home/), a fast-growing digital studio creating tailor-made digital products, where I'm currently working as Tech Lead.
 
 I've also co-founded [Elf Games](https://elfgames.com), a game development team working on creative 2D games with rich storytelling, with an [upcoming game](https://store.steampowered.com/app/1108000/Children_of_Silentown/).
 
