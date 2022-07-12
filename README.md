@@ -1,6 +1,7 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://monade.io/en/home/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-dotti/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://devs.monade.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-da2c49?style=for-the-badge&logo=itch.io&logoColor=white)](https://progm.itch.io/)
 
 ### Hi, I'm Piero 👋
 I'm an eclectic dev from Italy. I split my life in two, between web and game development.
