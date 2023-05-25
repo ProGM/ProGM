@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://monade.io/en/home/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://monade.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-dotti/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://devs.monade.io/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-da2c49?style=for-the-badge&logo=itch.io&logoColor=white)](https://progm.itch.io/)
@@ -8,7 +8,7 @@ I'm an eclectic dev from Italy. I split my life in two, between web and game dev
 
 I'm a Ruby & Elixir fan, but I love experimenting with new languages and stacks.
 
-I co-founded [Mònade](https://monade.io/en/home/), a fast-growing digital studio creating tailor-made digital products, where I'm currently working as Tech Lead.
+I co-founded [Mònade](https://monade.io), a fast-growing digital studio creating tailor-made digital products, where I'm currently working as Tech Lead.
 
 I've also co-founded [Elf Games](https://elfgames.com), a game development team working on creative 2D games with rich storytelling, with an [upcoming game](https://store.steampowered.com/app/1108000/Children_of_Silentown/).
 
