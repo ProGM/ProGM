@@ -8,9 +8,9 @@ I'm an eclectic dev from Italy. I split my life in two, between web and game dev
 
 I'm a Ruby & Elixir fan, but I love experimenting with new languages and stacks.
 
-I co-founded [Mònade](https://monade.io), a fast-growing digital studio creating tailor-made digital products, where I'm currently working as Tech Lead.
+I co-founded [Mònade](https://monade.io), a fast-growing digital studio creating tailor-made digital products, where I'm currently working as CTO.
 
-I've also co-founded [Elf Games](https://elfgames.com), a game development team working on creative 2D games with rich storytelling, with an [upcoming game](https://store.steampowered.com/app/1108000/Children_of_Silentown/).
+I've also co-founded [Elf Games](https://elfgames.com), a game development team, working on creative 2D games with rich storytelling.
 
 ## &#129520; Technologies
 
@@ -33,6 +33,12 @@ I've also co-founded [Elf Games](https://elfgames.com), a game development team 
 #### Game Technologies
 ![Unity](https://img.shields.io/badge/Unity-232F3E?style=flat-square&logo=Unity&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-232F3E?style=flat-square&logo=Phaser&logoColor=azure)
+
+## Courses and speeches
+* [Typescript Decorators Deep Dive](https://github.com/monade/typescript-decorators)
+* [Smol but Mighty - Addestra il tuo Mini Language Model](https://github.com/monade/smol-but-mighty)
+* [Scaling Vector Search with PostgreSQL: A Deep Dive into pgvector Optimization
+](https://www.youtube.com/watch?v=bNf6qms8N8I)
 
 ## 📑 Recent Posts
 * [How to optimize DB Writes in Ruby on Rails](https://devs.monade.io/how-to-optimize-db-writes-in-ruby-on-rails)
